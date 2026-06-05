@@ -52,13 +52,21 @@ trained_model.pkl
 
 
 📚 Libraries Used
+
 pandas
+
 numpy
+
 scikit-learn
+
 xgboost
+
 imbalanced-learn
+
 shap
+
 joblib
+
 matplotlib
 
 
@@ -102,11 +110,19 @@ A batch-based streaming system was implemented to simulate real-time fraud detec
 📁 Project Structure
 
 StudentName_AI_ML_Advanced_Task/
+
 │
+
 ├── notebook.ipynb
+
 ├── report.pdf
+
 ├── requirements.txt
+
 ├── fixed_pipeline.py
+
 ├── trained_model.pkl
+
 ├── README.md
+
 └── deployment/
