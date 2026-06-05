@@ -109,7 +109,6 @@ A batch-based streaming system was implemented to simulate real-time fraud detec
 
 📁 Project Structure
 
-StudentName_AI_ML_Advanced_Task/
 
 │
 
