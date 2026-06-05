@@ -1,4 +1,4 @@
-🧠 Credit Card Fraud Detection – AI/ML Project
+#🧠 Credit Card Fraud Detection – AI/ML Project
 📌 Project Overview
 
 This project detects fraudulent credit card transactions using machine learning models. Multiple models were trained including Logistic Regression, Random Forest, and XGBoost. The best-performing model (XGBoost) was selected for final evaluation and real-time simulation.
